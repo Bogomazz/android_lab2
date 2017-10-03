@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="com.example.macbook.lab1.EditNoteActivity">
+    tools:context="com.example.macbook.lab2.EditNoteActivity">
 
     <ImageView
         android:id="@+id/imageView"
